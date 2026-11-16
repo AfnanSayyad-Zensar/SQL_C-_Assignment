@@ -1,0 +1,14 @@
+C:\Projects\C#_Assignment 2\MyFirstApp\bin\Debug\net10.0\MyFirstApp.exe
+C:\Projects\C#_Assignment 2\MyFirstApp\bin\Debug\net10.0\MyFirstApp.deps.json
+C:\Projects\C#_Assignment 2\MyFirstApp\bin\Debug\net10.0\MyFirstApp.runtimeconfig.json
+C:\Projects\C#_Assignment 2\MyFirstApp\bin\Debug\net10.0\MyFirstApp.dll
+C:\Projects\C#_Assignment 2\MyFirstApp\bin\Debug\net10.0\MyFirstApp.pdb
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfo.cs
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.dll
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\refint\MyFirstApp.dll
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.pdb
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\MyFirstApp.genruntimeconfig.cache
+C:\Projects\C#_Assignment 2\MyFirstApp\obj\Debug\net10.0\ref\MyFirstApp.dll
